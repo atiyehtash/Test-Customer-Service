@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
         <access>public</access>
         <actions_access>false</actions_access>
@@ -16,7 +17,7 @@
         <number_ref display_value="SSC">639a762fdbb31300235ada75ca961952</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Case" name="sn_customerservice_case">25f216e7db331300235ada75ca9619b5</super_class>
+        <super_class display_value="label" name="sn_customerservice_case">3621de60db442300cf159b81ca9619b6</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

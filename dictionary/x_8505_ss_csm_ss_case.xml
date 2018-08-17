@@ -1,3 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sn_customerservice_case" label="SS Case" max_length="40" name="x_8505_ss_csm_ss_case" sizeclass="1" type="collection"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sn_customerservice_case" label="SS Case" max_length="40" name="x_8505_ss_csm_ss_case" type="collection"/>
 </database>

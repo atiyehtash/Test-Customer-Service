@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="my_csm_user" name="my_csm_user">f9b87eabdbb31300235ada75ca9619a9</role>
+        <role display_value="">f9b87eabdbb31300235ada75ca9619a9</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-14 18:46:13</sys_created_on>

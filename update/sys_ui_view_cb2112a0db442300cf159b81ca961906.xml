@@ -3,21 +3,21 @@
     <sys_ui_view action="INSERT_OR_UPDATE">
         <group/>
         <hidden>false</hidden>
-        <name>ss_case</name>
+        <name>case</name>
         <roles/>
         <sys_class_name>sys_ui_view</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-08-14 19:35:33</sys_created_on>
-        <sys_id>6c044f67dbf31300235ada75ca961921</sys_id>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-08-17 18:27:23</sys_created_on>
+        <sys_id>cb2112a0db442300cf159b81ca961906</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>SS Case</sys_name>
+        <sys_name>Case</sys_name>
         <sys_package display_value="SS CSM" source="x_8505_ss_csm">bf28b2abdbb31300235ada75ca961994</sys_package>
         <sys_policy/>
         <sys_scope display_value="SS CSM">bf28b2abdbb31300235ada75ca961994</sys_scope>
-        <sys_update_name>sys_ui_view_6c044f67dbf31300235ada75ca961921</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-14 19:35:33</sys_updated_on>
-        <title>SS Case</title>
+        <sys_update_name>sys_ui_view_cb2112a0db442300cf159b81ca961906</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-08-17 18:27:23</sys_updated_on>
+        <title>Case</title>
         <user/>
     </sys_ui_view>
 </record_update>
