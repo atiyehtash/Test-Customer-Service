@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_8505_er_csm.user" name="x_8505_er_csm.user">18ddba23dbf31300235ada75ca9619a7</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-14 19:08:31</sys_created_on>
+        <sys_id>5cdd3e23dbf31300235ada75ca961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>18ddba23dbf31300235ada75ca9619a7</sys_name>
+        <sys_package display_value="SS CSM" source="x_8505_ss_csm">bf28b2abdbb31300235ada75ca961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SS CSM">bf28b2abdbb31300235ada75ca961994</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5cdd3e23dbf31300235ada75ca961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-14 19:08:31</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
